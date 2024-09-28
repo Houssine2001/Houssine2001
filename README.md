@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on website<br><br>🌱 I’m currently learning ReactJS , SpringBoot<br><br>💬 Ask me about java<br><br>📫 How to reach me houssinebenarous48@gmail.com<br><br>🔗 my portfolio: https://houssine2001.github.io/
+I’m currently working on website<br><br>🌱 I’m currently learning Angular , SpringBoot<br><br>💬 Ask me about java<br><br>📫 How to reach me houssinebenarous48@gmail.com<br><br>🔗 my portfolio: https://houssine2001.github.io/
 
 
 
