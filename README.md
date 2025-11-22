@@ -35,7 +35,7 @@ const houssine = {
 - 🌱 Mastering **Angular** & **Spring Boot** ecosystem
 - 💡 Passionate about **clean code** and **scalable architectures**
 - 🎯 2025 Goals: Contribute to open source & build innovative projects
-- 📫 Reach me: **houssinebenarous48@gmail.com**
+- 📫 Reach me: **Houssine.BenArous@esprit.tn**
 - 🌐 Portfolio: **[houssine2001.github.io](https://houssine2001.github.io/)**
 
 ---
